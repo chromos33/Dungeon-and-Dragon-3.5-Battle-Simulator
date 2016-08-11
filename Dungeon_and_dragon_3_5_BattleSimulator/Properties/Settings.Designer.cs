@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Dungeon_and_dragon_3_5_BattleSimulator.Properties
+namespace Dungeon_and_Dragon_3_5_BattleSimulator.Properties
 {
 
 

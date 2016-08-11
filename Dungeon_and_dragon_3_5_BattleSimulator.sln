@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon_and_dragon_3_5_BattleSimulator", "Dungeon_and_dragon_3_5_BattleSimulator\Dungeon_and_dragon_3_5_BattleSimulator.csproj", "{7F3AD732-537C-4F36-A636-206DA3B805C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon_and_Dragon_3_5_BattleSimulator", "Dungeon_and_Dragon_3_5_BattleSimulator\Dungeon_and_Dragon_3_5_BattleSimulator.csproj", "{D25B4153-5C2A-4FF0-AA55-72E0F595352C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7F3AD732-537C-4F36-A636-206DA3B805C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7F3AD732-537C-4F36-A636-206DA3B805C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7F3AD732-537C-4F36-A636-206DA3B805C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7F3AD732-537C-4F36-A636-206DA3B805C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25B4153-5C2A-4FF0-AA55-72E0F595352C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25B4153-5C2A-4FF0-AA55-72E0F595352C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25B4153-5C2A-4FF0-AA55-72E0F595352C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25B4153-5C2A-4FF0-AA55-72E0F595352C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

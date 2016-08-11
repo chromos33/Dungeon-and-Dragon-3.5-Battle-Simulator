@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Dungeon_and_dragon_3_5_BattleSimulator.Properties
+namespace Dungeon_and_Dragon_3_5_BattleSimulator.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Dungeon_and_dragon_3_5_BattleSimulator.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Dungeon_and_dragon_3_5_BattleSimulator.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Dungeon_and_Dragon_3_5_BattleSimulator.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
