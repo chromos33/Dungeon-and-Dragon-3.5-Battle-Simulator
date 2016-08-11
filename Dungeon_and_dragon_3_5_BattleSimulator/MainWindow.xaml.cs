@@ -24,5 +24,10 @@ namespace Dungeon_and_Dragon_3_5_BattleSimulator
         {
             InitializeComponent();
         }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            System.Diagnostics.Debug.WriteLine(test.Input);
+        }
     }
 }
